@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atharvwavare&label=Profile%20views&color=0e75b6&style=flat" alt="atharvwavare" /> </p>
 
-- 🌱 I’m currently learning **programmig language java + dsa and backend technologies like servelets, hibernate,spring & springboot**
+- 🌱 Hi, I’m Atharv Wavare, a passionate Java backend developer in the making! As a dedicated T.E. student, I’m constantly honing my skills in Java with data structures algorithms, Spring Boot, and backend technologies while building scalable and efficient applications.
 
-- 👨‍💻 All of my projects are available at [https://github.com/Atharvwavare](https://github.com/Atharvwavare)
+By day, I dive deep into backend development, APIs, and database management, and by night, I debug tirelessly—sometimes fixing bugs, sometimes creating new ones! I believe in continuous learning and documenting my journey on GitHub, where I share my projects, challenges, and solutions.
 
-- 📫 How to reach me **atharvwavare3563@gmail.com**
+Join me in exploring the ever-evolving world of backend development—one line of code at a time! 🚀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
