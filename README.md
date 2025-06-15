@@ -1,6 +1,7 @@
 # 💫 About Me:
 Hi, I'm Atharv Wavare, a passionate Java backend developer in the making! As a dedicated T.E. student, I’m constantly honing my skills in Java with data structures algorithms, Spring Boot, and backend technologies while building scalable and efficient applications.  <br><br>By day, I dive deep into backend development, APIs, and database management, and by night, I debug tirelessly—sometimes fixing bugs, sometimes creating new ones! I believe in continuous learning and documenting my journey on GitHub, where I share my projects, challenges, and solutions.  <br><br>Join me in exploring the ever-evolving world of backend development—one line of code at a time! 🚀
 
+##Portfolio : https://atharv7-portfolio.netlify.app/
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wavareatharv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atharvwavare) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/atharvwavare_7) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atharvwavare3563@gmail.com) 
